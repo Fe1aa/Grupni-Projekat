@@ -1,0 +1,37 @@
+Pocetna : Start build 
+components
+login/register kroz firebase
+
+Components list: 
+Kroz kod
+Zadnje tri generacije komponena
+
+Build Page:
+Ukockicama kroz flexbox/flex grid
+bez periferalnih uredjaja
+
+
+About us
+Contact 
+Leaflet send to email
+
+css:
+
+
+tema(boje): Pitati Nadin
+
+
+Koristiti JQuerry i Bootstrap
+
+Note(Emir):
+posebno code za svaku stranicu
+
+Note (Amar i Novak):
+Koristiti ekstenzije
+
+Note (Nadin):
+Posebno code za sve stranice
+
+Note(Svi):
+Clean Code
+Koristiti AI za pomoc i ciscenje koda a ne da AI pise cijeli kod
